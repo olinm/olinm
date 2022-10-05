@@ -1,4 +1,6 @@
-![image](https://user-images.githubusercontent.com/97887717/194167932-73a3840c-d04a-410a-b11a-71af7a0a252b.png)
+<img align="right" src="https://user-images.githubusercontent.com/97887717/194167932-73a3840c-d04a-410a-b11a-71af7a0a252b.png">
+
+
 
 - I’m interested in: bioinformatics (specifically the applications of R in statistical analysis) and immunology
 - I'm just starting out this year so bear with me, there is more to come
