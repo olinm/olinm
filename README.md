@@ -9,8 +9,21 @@
 - I'm just starting out this year so bear with me, there is more to come
 - Currently teaching myself Python with CS50's Introduction to Programming with Python
 - On my way to learning many more! What I started learning so far:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<div class="row">
+  <div class="column">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  </div>
+  <div class="column">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </div>
+  <div class="column">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  </div>
+    </div>
+  <div class="column">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  </div>
+</div>
 
 
 <!---
