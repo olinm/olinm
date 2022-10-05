@@ -1,4 +1,11 @@
-![messagif (1)](https://user-images.githubusercontent.com/97887717/194166555-a12524c9-4a88-41f3-8a16-d7112ad434fd.gif)
+/* Rectangle */
+
+position: absolute;
+width: 233px;
+height: 203px;
+
+background: url(.png);
+
 
 - I’m interested in: bioinformatics (specifically the applications of R in statistical analysis) and immunology
 - I'm just starting out this year so bear with me, there is more to come
