@@ -8,6 +8,10 @@
 - I’m interested in: bioinformatics (specifically the applications of R in statistical analysis) and immunology
 - I'm just starting out this year so bear with me, there is more to come
 - Currently teaching myself Python with CS50's Introduction to Programming with Python
+- On my way to learning many more! What I started learning so far:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
 
 <!---
 olinm/olinm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
