@@ -7,7 +7,7 @@
 - I’m interested in: bioinformatics (specifically the applications of R in statistical analysis) and immunology
 - I'm just starting out this year so bear with me, there is more to come
 - Currently teaching myself Python with CS50's Introduction to Programming with Python
-- On my way to learning many more! What I started learning so far:
+- On my way to learning many more languages! Started so far:
 <p align='left'>
 <a> <img height="30" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
 <a> <img height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
