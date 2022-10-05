@@ -9,19 +9,6 @@
 - I'm just starting out this year so bear with me, there is more to come
 - Currently teaching myself Python with CS50's Introduction to Programming with Python
 - On my way to learning many more! What I started learning so far:
-<style>
-  .column {
-  float: left;
-  width: 25%;
-  padding: 5px;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
 
 <div class="row">
   <div class="column">
@@ -38,6 +25,13 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </div>
 </div>
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/oliwia-mruk/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/olinm"><img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href=""><img height="30" src=""></a>
+<a href=""><img height="30" src=""></a>
+<a href=""><img height="30" src=""></a>
 
 <!---
 olinm/olinm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
