@@ -5,7 +5,7 @@
 
 
 - I’m interested in: bioinformatics (specifically the applications of R in statistical analysis) and immunology
-- I'm just starting out this year so bear with me, there is more to come
+- I'm <strong>just starting out</strong> this year so bear with me, there is more to come
 - Currently teaching myself Python with CS50's Introduction to Programming with Python
 - On my way to learning many more languages! Started so far:
 <p align='left'>
