@@ -3,11 +3,6 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/97887717/194167932-73a3840c-d04a-410a-b11a-71af7a0a252b.png">
 
-
-- I’m interested in: bioinformatics (specifically the applications of R in statistical analysis) and immunology
-- I'm <strong>just starting out</strong> this year so bear with me, there is more to come
-- Currently teaching myself Python with CS50's Introduction to Programming with Python
-- On my way to learning many more languages! Started so far:
 <p align='left'>
 <a> <img height="30" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
 <a> <img height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
